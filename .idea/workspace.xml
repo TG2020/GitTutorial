@@ -42,11 +42,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.NewGIT.executor": "Run",
     "Python.NowyGIT.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "branch__kolegi",
+=======
+    "git-widget-placeholder": "nasz__branch",
+>>>>>>> 1d168a6 (nasz zmiana)
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
@@ -68,5 +74,8 @@
       <updated>1711124681193</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
